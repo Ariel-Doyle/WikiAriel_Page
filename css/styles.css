@@ -1,3 +1,25 @@
 img {
   width: 120px; 
 }
+
+.test1 {
+  width: 120px;
+  float: right;
+}
+
+.test2 {
+  width: 120px;
+  float: right;
+}
+
+.background1 {
+  background-color: lightgreen;
+}
+
+.background2 {
+  background-color: lightblue;
+}
+
+.background3 {
+  background-color: lightpink;
+}
