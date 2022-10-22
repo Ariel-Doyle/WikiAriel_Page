@@ -24,7 +24,7 @@ _This is a basic HTML page as practice for writing code in line with lessons tau
 
 ## Known Bugs
 
-* _There are no known issues with this HTML file_
+* _The sidebar is not yet a feature_
 
 ## License
 
