@@ -12,6 +12,10 @@ img {
   float: right;
 }
 
+.float {
+  float: left;
+}
+
 .background1 {
   background-color: lightgreen;
 }
